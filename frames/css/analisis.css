@@ -1,0 +1,136 @@
+.cabecera {
+  font: .8em Arial;
+
+}
+
+.cab_ale {
+  font: .8em Arial;
+  background-color: #F44;
+
+}
+.cab_cui {
+  font: .8em Arial;
+  background-color: #FF0;
+}
+
+span {
+  width: 5em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #FFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.exclusivo {
+  width: 6.5em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #FFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.confiltro {
+  background-color: #F00;
+  color: #FFF;
+}
+
+span:hover {
+  background: #FF6;
+  font-weight: bold;
+  text-shadow:0px 0px 5px white;
+}
+
+
+.rechazo {
+  width: 4em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #FCC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+.rechazo:hover {
+  background: #F88;
+  font-weight: bold;
+  text-shadow:0px 0px 5px white;
+}
+
+.chico {
+  width: 3.5em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #FFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+.chico:hover {
+  background: #FF6;
+  font-weight: bold;
+  text-shadow:0px 0px 5px white;
+}
+
+
+
+.chico_activo {
+  width: 3em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #FFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: #FF6;
+  font-weight: bold;
+  text-shadow:0px 0px 5px white;
+}
+
+.selecciones {
+  width: 10.5em;
+  height: 2.5em;
+  display: inline;
+  float: left;
+  background-color: #9F3;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 0.8em Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.selecciones:hover {
+  background: #9F0;
+  font-weight: bold;
+  text-shadow:0px 0px 3px white;
+}
+
+#ent{display: none;}

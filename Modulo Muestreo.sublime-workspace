@@ -1,0 +1,960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cant",
+				"cant_tambores"
+			],
+			[
+				"filaE",
+				"filaEscribirExcel"
+			],
+			[
+				"num",
+				"num_ingreso"
+			],
+			[
+				"tam",
+				"tambor"
+			],
+			[
+				"ta",
+				"tambores"
+			],
+			[
+				"tamb",
+				"tamborgroup"
+			],
+			[
+				"t",
+				"tambores"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"pad	CSS - padding: 0;"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-box"
+			],
+			[
+				"g",
+				"graphic"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"t-a",
+				"text-align"
+			],
+			[
+				"p-",
+				"pos-r	position: relative;"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"t-t",
+				"trf-t	transform: translate(${1:x}, ${2:y});"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"pr",
+				"productor"
+			],
+			[
+				"peso_",
+				"peso_bruto"
+			],
+			[
+				"da",
+				"datosTabla"
+			],
+			[
+				"sum",
+				"sumPesoN"
+			],
+			[
+				"peso",
+				"peso_neto"
+			],
+			[
+				"sumP",
+				"sumPesoN"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"top",
+				"top-nav"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"mR",
+				"margin-left"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"li",
+				"list_price"
+			],
+			[
+				"b",
+				"bol	CSS - font-weight: bold;"
+			],
+			[
+				"f-s",
+				"font-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"t-d",
+				"text-decoration"
+			],
+			[
+				"d",
+				"d-f	display: flex;"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"blo",
+				"blog-post"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"tr",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"fs	font-style: ${italic};"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"w",
+				"wScroll"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"hid",
+				"hid	CSS - overflow: hidden;"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"ab",
+				"abs	CSS - position: absolute;"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"selec",
+				"seleccionada"
+			],
+			[
+				"se",
+				"seleccionada"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"id_",
+				"id_tambor"
+			],
+			[
+				"json",
+				"jsonArray"
+			],
+			[
+				"filtr",
+				"filtrado"
+			],
+			[
+				"oper",
+				"operation"
+			],
+			[
+				"fa",
+				"factura"
+			],
+			[
+				"ped",
+				"pedirDatosPyT"
+			],
+			[
+				"id",
+				"id_tambor"
+			],
+			[
+				"hmf",
+				"hmf"
+			],
+			[
+				"TA",
+				"tamselect"
+			],
+			[
+				"rowi",
+				"rowid"
+			],
+			[
+				"uo",
+				"updateIdsOfSelectedRows"
+			],
+			[
+				"existe",
+				"existen"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"repo",
+				"response"
+			],
+			[
+				"res",
+				"resultcond"
+			],
+			[
+				"boto",
+				"botonera_Analisis"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"sel",
+				"selMuestra"
+			],
+			[
+				"result",
+				"resultado"
+			],
+			[
+				"pro",
+				"propiedad"
+			],
+			[
+				"hum",
+				"humedad"
+			],
+			[
+				"hume",
+				"humedadSUP"
+			],
+			[
+				"codigo",
+				"codigoAnalisis"
+			],
+			[
+				"select",
+				"SELECTED"
+			],
+			[
+				"sal",
+				"salae"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"sala",
+				"sala_asoc"
+			],
+			[
+				"sele",
+				"selectfrom"
+			],
+			[
+				"tipo",
+				"tipo_campo"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"alma",
+				"almacen_id"
+			],
+			[
+				"ra",
+				"razon_social"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frames/muencampo1.php",
+			"settings":
+			{
+				"buffer_size": 10975,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frames/includes/buscarTambor.php",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frames/cargardatoscompras.php",
+			"settings":
+			{
+				"buffer_size": 8590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "UPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14701;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14701;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14702;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14702;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14737;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14737;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14738;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14738;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14739;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14739;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14740;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14740;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14741;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14741;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14742;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14742;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14743;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14743;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14744;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14744;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14745;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14745;\nUPDATE  `chmiel`.`laboratorio` SET  `id_productor` =  '493' WHERE  `presupuestos`.`id_tambor` =14737;\nUPDATE  `chmiel`.`presupuestos` SET  `id_productor` =  '493',\n`id_sala_ext` =  '128' WHERE  `presupuestos`.`id_tambor`=14737;",
+			"settings":
+			{
+				"buffer_size": 2735,
+				"line_ending": "Windows",
+				"name": "UPDATE  `chmiel`.`laboratorio` SET  `id_productor`"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: htmlboiler"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: html	",
+				"Snippet: htmlboiler"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: L",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/AppServ/www/chmiel/frames/Nembarque1.php",
+		"/C/AppServ/www/chmiel/frames/includes/cargarMovimientos.php",
+		"/C/Users/user/Desktop/web revista vegetariana/includes/footer.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/index.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/includes/col-2.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/includes/col-1.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/revistas/la-revista.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/nektar-datiles.html",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-chanchito-vegano.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-cosmetica-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-grosellero-negro.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-nektar-datiles.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-reposteria-vegana.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-2-salud-hidratacion.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-nektar-datiles.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/nektar-datiles.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/includes/col-2-cazuela-mar-vegana.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/cazuela-mar-vegana.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-salud-hidratacion.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-chanchito-vegano.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-cosmetica-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-grosellero-negro.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-reposteria-vegana.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/salud-hidratacion.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/chanchito-vegano.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/reposteria-vegana.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/cosmetica-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/grosellero-negro.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/panettone-integral.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/noviembre2015/includes/col-2-panettone-integral.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/noviembre2015/includes/col-1-panettone-integral.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/recetas/noviembre2015/panettone-integral.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-reposteria-nektar-datiles.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/columnistas/noviembre2015/includes/col-1-salud-cosmetica-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/huesos-fuertes.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/includes/col-1-masaje-zen.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/masaje-zen.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/hospital-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/includes/col-1-hospital-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/includes/col-1-huesos-hospital-natural.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/includes/col-1-huesos-fuertes.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/tomar-agua.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/sustentabilidad.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/reciclaje.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/descongelar.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/noviembre2015/avena.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/reciclaje.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/includes/col-1-reciclaje.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/includes/col-1-descongelar.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/descongelar.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/tomar-agua.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/includes/col-1-tomar-agua.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/includes/col-1-sustentabilidad.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/sustentabilidad.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/avena.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/notas/includes/col-1-avena.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/includes/col-1-notas.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/avena.jade",
+		"/C/Users/user/Desktop/web revista vegetariana/vegetariana.sublime-project",
+		"/C/Users/user/Desktop/vegetariana 2/index.jade",
+		"/C/Users/user/Desktop/vegetariana 2/js/functions.js",
+		"/C/Users/user/Desktop/vegetariana 2/avena.jade",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-1.jade",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-2.jade",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-1-notas.jade",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-2-notas.jade",
+		"/C/Users/user/Desktop/vegetariana 2/includes/footer.jade",
+		"/C/Users/user/Desktop/vegetariana 2/css/styles.sass",
+		"/C/Users/user/Desktop/vegetariana 2/notas.jade",
+		"/C/Users/user/Desktop/vegetariana 2/js/jssor.ini.js",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-1-1.jade",
+		"/C/Users/user/Desktop/vegetariana 2/Test_Project/scss/_settings.scss",
+		"/C/Users/user/Desktop/vegetariana 2/css/styles.scss",
+		"/C/Users/user/Desktop/vegetariana 2/css/main.css",
+		"/C/Users/user/Desktop/vegetariana 2/js/foundation.orbit.js",
+		"/C/Users/user/Desktop/vegetariana 2/js/index.js",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/user/Desktop/vegetariana 2/includes/col-3.jade",
+		"/C/Users/user/Desktop/Nueva carpeta/index.jade",
+		"/C/Users/user/Desktop/Nueva carpeta/includes/col-1.jade",
+		"/C/Users/user/Desktop/Nueva carpeta/includes/col-2.jade",
+		"/C/Users/user/Desktop/Nueva carpeta/includes/col-3.jade",
+		"/C/Users/user/Desktop/Nueva carpeta/css/styles.sass",
+		"/C/Users/user/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/css/main.css",
+		"/C/Users/user/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/js/functions.js",
+		"/C/Users/user/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/includes/col-3.jade",
+		"/C/Users/user/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/index.html",
+		"/C/Users/Acer/Desktop/slick-carousel-demo/css/style.css",
+		"/C/Users/Acer/Desktop/Templates En Construccion/index.html",
+		"/C/Users/Acer/Desktop/web vegetariana/index.html",
+		"/C/Users/Acer/Desktop/web vegetariana/css/main.css",
+		"/C/Users/Acer/Desktop/web vegetariana/js/functions.js",
+		"/C/Users/Acer/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/css/main.css",
+		"/C/Users/Acer/Desktop/Videos Educativo IT/grid frameworks/Foundation grid/index.html",
+		"/C/Users/Acer/Desktop/Videos Educativo IT/Foundation grid/index.html",
+		"/C/Users/Acer/Desktop/Videos Educativo IT/Foundation grid/js/functions.js",
+		"/C/Users/Acer/Desktop/Videos Educativo IT/Foundation grid/css/main.css",
+		"/C/Users/Acer/Desktop/Splash page/js/functions.js",
+		"/C/Users/Acer/Desktop/Splash page/css/main.css",
+		"/C/Users/Acer/Desktop/Splash page/index.html",
+		"/C/Users/Acer/Desktop/Splash page/css/base.css",
+		"/C/AppServ/www/chmiel/frames/grid/gridStock.php",
+		"/C/AppServ/www/chmiel/frames/gen_packing_list.php",
+		"/C/AppServ/www/chmiel/frames/stock1.php",
+		"/C/AppServ/www/chmiel/frames/js/motorExportEmba.js",
+		"/C/AppServ/www/chmiel/frames/js/motorStock.js",
+		"/C/AppServ/www/chmiel/frames/stockaxls.php",
+		"/C/AppServ/www/chmiel/frames/labaxls.php",
+		"/C/AppServ/www/chmiel/frames/alta_extaco1.php",
+		"/C/AppServ/www/chmiel/frames/js/motorExtaco1.js",
+		"/C/AppServ/www/chmiel/frames/extaco1.php",
+		"/C/AppServ/www/chmiel/frames/cargardatoscompras.php",
+		"/C/AppServ/www/chmiel/frames/alta_laboratorio3.php",
+		"/C/AppServ/www/chmiel/frames/reproceso1.php",
+		"/C/AppServ/www/chmiel/frames/grid/gridExportEmb.php",
+		"/C/AppServ/www/chmiel/frames/grid/gridExportOut.php",
+		"/C/AppServ/www/chmiel/frames/js/motorExportOut.js",
+		"/C/AppServ/www/chmiel/frames/grid/gridExport.php",
+		"/C/AppServ/www/chmiel/frames/js/motorExportacion.js",
+		"/C/AppServ/www/chmiel/frames/easy-tabs.css",
+		"/C/AppServ/www/chmiel/frames/embarque1.php",
+		"/C/AppServ/www/chmiel/frames/css/embarque.css",
+		"/C/AppServ/www/chmiel/frames/css/reproceso1.css",
+		"/C/AppServ/www/chmiel/frames/OLDembarque1.php",
+		"/C/Users/Acer/Desktop/Landing Page/css/landing.css",
+		"/C/Users/Acer/Desktop/Landing Page/landing.html",
+		"/C/Users/Acer/Desktop/Landing Page/js/functions.js",
+		"/C/Users/Acer/Desktop/Landing Page/index.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":\n",
+			"        	",
+			"search",
+			"query",
+			"sq",
+			"sql",
+			"query",
+			"				",
+			"searchoptions",
+			"class=\"selectopts ui-widget-content ui-corner-all\"",
+			"$tamb",
+			"deposito",
+			"}}",
+			">table-hover\ntable-hover",
+			">table-hover\n",
+			">\n",
+			"s",
+			"S",
+			"tipo_campo",
+			"$se",
+			"$sala_ext",
+			"value",
+			"$tipo_campo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frames/muencampo1.php",
+					"settings":
+					{
+						"buffer_size": 10975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4644.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frames/includes/buscarTambor.php",
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frames/cargardatoscompras.php",
+					"settings":
+					{
+						"buffer_size": 8590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6582,
+								6582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2790.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 2735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2603,
+								2608
+							]
+						],
+						"settings":
+						{
+							"auto_name": "UPDATE  `chmiel`.`laboratorio` SET  `id_productor`",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true
+}

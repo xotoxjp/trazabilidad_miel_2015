@@ -1,0 +1,17 @@
+
+a:link, a:visited,a:hover,a:active { text-decoration: none; color: #000000;}
+
+body,td,th { color: #000000; font-family: Elvetica; font-size: 16px; }
+
+#menu_principal TD:hover
+{ background: #E0FFFF;
+  font-weight: bold;
+}
+
+#menu_principal1 TD:hover
+{ background: #C4C4DE;
+  font-weight: bold;
+}
+
+#ent {display: none;}
+

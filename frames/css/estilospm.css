@@ -1,0 +1,166 @@
+/*
+	Rojo:		B30101
+	Amarillo:	E3BE12
+*/
+@font-face
+{
+	font-family: "Aceituna";
+	src: url("Chantelli_Antiqua-webfont.eot");
+	src: url("Chantelli_Antiqua-webfont.eot") format("embedded-opentype"),
+		 url("Chantelli_Antiqua-webfont.woff") format("woff"),
+		 url("Chantelli_Antiqua-webfont.ttf") format("truetype"),
+		 url("Chantelli_Antiqua-webfont.svg#ChantelliAntiquaRegular") format("svg");
+}
+article, footer, header, section
+{
+	display: block;
+}
+body
+{
+	background: #B30000;
+	font-family: "Helvetica", Arial;
+	font-size: 16px;
+	text-align: center;
+}
+footer, header, section
+{
+	background: #FFF;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+	-ms-border-radius: 0.5em;
+	box-shadow: rgba(0,0,0,0.5) 0px 5px 10px;
+	-webkit-box-shadow: rgba(0,0,0,0.5) 0px 5px 10px;
+	margin: 1em auto;
+	padding: 1em;
+	width: 90%;
+}
+header
+{
+	background: url("logo.png") no-repeat 10px 5px, 
+				url("mantel.jpg");
+	color: white;
+	font-family: "Aceituna";
+	text-shadow: rgba(0,0,0,0.5) 2px 2px 10px;
+	-webkit-text-shadow: rgba(0,0,0,0.5) 2px 2px 10px;
+}
+
+#conejito
+{
+	height: 360px;
+	width: 640px;
+}
+#formulario
+{
+	background: #E3BE12;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	font-size: 1.5em;
+	margin: 0 auto;
+	padding: 1em;
+	width: 70%;
+}
+#formulario input
+{
+	border: 2px solid #AAA;
+	display: block;
+	font-family: "Aceituna";
+	font-size: 24px;
+	margin: 0.5em auto;
+	padding: 0.4em;
+	width: 50%;
+}
+#formulario input[type="submit"]
+{
+	background: #B30101;
+	border: none;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	box-shadow: rgba(0,0,0,0.5) 0px 5px 10px inset;
+	-webkit-box-shadow: rgba(0,0,0,0.5) 0px 5px 10px inset;
+	color: #FFF;
+	 
+	width: 53%;
+}
+#formulario input[type="submit"]:hover
+{
+	background: #000;
+}
+#historia
+{
+	column-count: 3;
+	-webkit-column-count: 3;
+	column-gap: 2em;
+	-webkit-column-gap: 2em;
+	column-rule: 2px dashed #E3BE12;
+	-webkit-column-rule: 2px dashed #E3BE12;
+	text-align: justify;
+}
+#mapa_canvas
+{
+	margin: 0 auto;
+}
+#pizzamaker
+{
+	display: none;
+}
+#pizzamaker section
+{
+	display: inline-block;
+	margin: 1%;
+	vertical-align: top;
+}
+#pizzamaker #adiciones
+{
+	width: 57%;
+}
+#pizzamaker #adiciones article
+{
+	background: #E3BE12;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	box-shadow: rgba(0,0,0,0.5) 10px 10px 10px;
+	-webkit-box-shadow: rgba(0,0,0,0.5) 10px 10px 10px;
+	color: #FFF;
+	display: inline-block;
+	margin: 1%;
+	padding: 0.5em;
+	width: 42%;
+	
+	transition: transform 1s linear;
+	-webkit-transition: -webkit-transform 1s linear;
+}
+#pizzamaker #adiciones article:hover
+{
+	cursor: pointer;
+	
+	transform: scale(1.2) rotate(5deg);
+	-webkit-transform: scale(1.2) rotate(5deg);
+	
+	transition: transform 1s linear;
+	-webkit-transition: -webkit-transform 1s linear;
+}
+#pizzamaker #adiciones article:nth-child(even)
+{
+	background: #D2E4F6;
+	color: #666;
+}
+#pizzamaker #pizza
+{
+	width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

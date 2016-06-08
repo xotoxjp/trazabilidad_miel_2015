@@ -1,0 +1,16 @@
+*{  font-family: sans-serif;    }
+table, th, td {
+    border: 0px black;
+    border-collapse: collapse;  
+}
+th{
+	background-color: #f1f1c1;
+}
+th, td{
+    padding: 5px;
+}
+#fecha{
+	position: relative;
+	top:-30px;
+	left: 500px;
+}

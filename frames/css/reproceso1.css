@@ -1,0 +1,80 @@
+#datosenvio{
+	position:relative;
+	left:00px;
+	top:25px; 
+}
+#datostransport{
+	position:relative;
+	left:300px;
+	top:-150px;
+}
+
+#num_ingreso{
+	position:relative;
+	left:20px;
+}
+
+#pesajes{
+	position:relative;
+	left: 2rem;
+ 
+}
+#tSeleccionado{
+	/*background-color:lightgrey;*/
+	position: relative;
+    left: 15rem;
+    top: -3.2rem;
+    width: 4em;
+    height: 2em;
+    font-size: 20pt;
+}
+
+#leerbalanza{
+	position: relative;
+    left: 52rem;
+    top: -20rem;
+    padding: 1rem;
+}
+
+
+#titulo{
+	position: relative; top: 10px;
+}
+
+#botonera{ height: 80px; position: relative; left: 350px; top: 20px;}
+.boton{padding: 15px; border-radius: 5px}
+
+.botonesHoriz{
+	position: relative; top: -5rem; left: 35rem;
+}
+
+#cargarpeso{
+	position: relative; left: 15rem;
+}
+
+#tab-container{	
+	position: relative;
+	left:10px;
+	top:-80px;
+}
+
+#planilla_ing{
+	margin-left: -350px;
+}
+
+#slt_deposito{
+	position: relative;
+	left: 83px;
+	top:2px;
+}
+
+#selectfr{
+	padding:3px;
+}
+
+.selectTipoTambor{
+	position: relative;
+    left: 52rem;
+    top: -10rem;
+    padding: 0.4rem;
+}

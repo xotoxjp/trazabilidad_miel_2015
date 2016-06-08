@@ -1,0 +1,136 @@
+@charset "utf-8";
+.contenedor{
+  height:700px;
+  background-color: white;
+  margin-left:100px; 
+  margin-right:200px;
+  margin-top:10px;
+}
+.contenedorSelects{
+  height:700px;
+  background-color: white;
+  border: 1px solid #b0e0e6; 
+  margin-left:100px; 
+  margin-right:200px;
+  margin-top: 50px;
+}
+#contenedor3{
+  height:70px;
+  margin-top: 10px;
+  
+}
+#envio{
+  background: green;
+  margin-left: 150px;
+  background-color: #b0e0e6;
+  margin-left:100px; 
+  margin-right:200px;
+  margin-top: 50px;
+}
+#cabe{
+  font-size: 20px;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;  
+  display: block;
+  text-align: center;
+  margin-top: 0.5px;
+  background-color:  #CFC;
+}
+#cabe2{
+  font-size: 20px;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+  text-align: center;
+  margin-top: 5px;
+  background-color:  #CFC;
+}
+#prioridad{
+  margin-top: 5px;
+}
+#t{
+  font-size: 20px;
+  background-color: white;
+  margin-top: 0px;
+  margin-right: 50px;
+  text-align: center;
+}
+#t2{
+  font-size: 20px;
+  background-color: white;  
+  text-align: center;
+}
+
+#fila3{
+  float: left;
+  margin-left: 600px; 
+}
+
+
+
+button{
+ background-color: #CFC;
+}
+
+
+
+
+#col1{
+  float: left;
+  margin-left: 20px;
+  background-color: white; 
+}
+#col2{
+  float: left;
+  margin-left: 20px;
+  background-color: white;  
+} 
+#col3{
+  float: left;
+  margin-left: 20px;
+  background-color: white;  
+} 
+#col4{
+  float: left;
+  margin-left: 20px;
+  background-color: white;  
+} 
+
+
+#selectores{
+  float:left;
+  margin-left: 20px;
+}
+
+
+#accion{
+  margin-top: 50px;
+  text-align: center;
+  margin-right: 200px;
+}
+
+
+input[type=checkbox]:checked::after{
+  content:"✔";
+  display:block;
+  text-align: center;
+  font-size: 16px;
+  height: 16px;
+  line-height: 18px;
+} 
+
+input[type=checkbox] {
+  border: 1px solid #c0c0c0;
+  margin: 0 0.1em 0 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1em;
+  width: 1.25em;
+  height: 1.25em;
+  background: #fff;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ededed), to(#fbfbfb)); 
+  -webkit-appearance: none;
+  -webkit-box-shadow: 1px 1px 1px #fff;
+  -webkit-border-radius: 0.25em;
+  vertical-align: text-top;
+  display: inline-block; 
+}

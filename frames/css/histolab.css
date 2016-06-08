@@ -1,0 +1,172 @@
+span.productor,span.tproductor {
+  background-color: white;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -3px 5px inset ;
+  display: inline;
+  font: 0.9em Arial, Helvetica, sans-serif;
+  float: left; 
+  height: 2.4em;
+  left: 0px; 
+  margin: 1px;
+  padding: 5px;
+  width: 27%;
+}
+span.zona,span.tzona {
+  background-color: white;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -3px 5px inset ;
+  display: inline;
+  font: 0.9em Arial, Helvetica, sans-serif;
+  float: left; 
+  height: 2.4em;
+  left: 0px; 
+  margin: 1px;
+  padding: 5px;
+  width: 19%;
+}
+span.muestras,span.tmuestras {
+  background-color: white;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -3px 5px inset ;
+  display: inline;
+  font: 0.9em Arial, Helvetica, sans-serif;
+  float: left; 
+  height: 2.4em;
+  left: 0px; 
+  margin: 1px;
+  padding: 5px;
+  width: 5.5%;
+}
+span.res_col,span.tres_col,span.res_hum,span.tres_hum,span.res_hmf,span.tres_hmf,span.res_aci,span.tres_aci {
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -3px 5px inset ;
+  display: inline;
+  font: 0.9em Arial, Helvetica, sans-serif;
+  float: left; 
+  height: 2.4em;
+  left: 0px; 
+  margin: 1px;
+  padding: 5px;
+  width: 7%;
+  cursor: pointer;
+}
+
+span.resultado,span.muestras,span.zona,span.productor{
+    height: 1.2em;
+    cursor: pointer;
+}
+
+span.res_col,span.tres_col { background-color: #FFC;height: 1.2em;}
+span.res_hum,span.tres_hum { background-color: #CFC;height: 1.2em;}
+span.res_hmf,span.tres_hmf { background-color: #CFF;height: 1.2em;}
+span.res_aci,span.tres_aci { background-color: #FCF;height: 1.2em;}
+span.tres_col,span.tres_hum,span.tres_hmf,span.tres_aci {height: 2.4em; text-align: center;}
+
+
+img {cursor: pointer;}
+label.color,label.humedad,label.hmf,label.acidez{  cursor: pointer;}
+label.color {
+  width: 7em;
+  height: 1em;
+  display: inline;
+  float: left;
+  background-color: #FFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 1em Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+label.color:hover {
+  background: #FF6;
+  text-shadow:0px 0px 5px white;
+}
+label.humedad {
+  width: 7em;
+  height: 1em;
+  display: inline;
+  float: left;
+  background-color: #CFC;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 1em Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+label.humedad:hover {
+  background: #6F6;
+  text-shadow:0px 0px 5px white;
+}
+label.hmf {
+  width: 7em;
+  height: 1em;
+  display: inline;
+  float: left;
+  background-color: #CFF;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 1em Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.trazo {
+  color: #6FF;
+  background: #6FF;
+}
+
+label.hmf:hover {
+  background: #6FF;
+  text-shadow:0px 0px 5px white;
+}
+label.acidez {
+  width: 7em;
+  height: 1em;
+  display: inline;
+  float: left;
+  background-color: #FCF;
+  margin: 0.2em;
+  padding: 0.6em;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px -4px 6px inset ;
+  font: 1em Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+label.acidez:hover {
+  background: #F6F;
+  text-shadow:0px 0px 5px white;
+}
+td.grafo
+{
+  background: #FFF;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px 5px 10px;
+  margin: 0.1em auto;
+  padding: 0.3em;
+  width: 8em;
+  text-align: center;
+}
+td.grafop
+{
+  background: #FFF;
+  border-radius: 0.5em;
+  box-shadow: rgba(0,0,0,0.5) 0px 5px 10px;
+  margin: 0.1em auto;
+  padding: 0.3em;
+  width: 10em;
+  text-align: center;
+}
+.myCanvas {
+  border-width: 0px;
+  margin: 0px;
+  padding: 0px;
+  border-color: #44ff44;
+  background-color: #FFF;
+}
+#ent {display: none;}
+#valcol{display: none;}
